@@ -56,3 +56,19 @@ I lead a committee of four, coordinate speakers, facilitate discussion and maint
 
 - GitHub: [github.com/prodmodfour](https://github.com/prodmodfour)
 - Email: [prodmodfour@gmail.com](mailto:prodmodfour@gmail.com)
+
+## Passion projects and experiments
+
+Alongside my backend/platform portfolio, I also maintain personal projects that reflect my broader engineering interests: long-lived tools, typed domain modelling, local-first workflows, CLI design, protocol boundaries and product-shaped software.
+
+### [rotom-table](https://github.com/prodmodfour/rotom-table)
+
+Long-running Nuxt 3 / TypeScript tabletop companion for Pokémon Tabletop United campaigns. It brings together an isometric map table, editable Pokémon and trainer sheets, encounter-table tooling, a searchable Pokédex, reference pages and filesystem-backed campaign data.
+
+**Shows:** long-term ownership, TypeScript/Nuxt application structure, complex Vue UI, local-first persistence, domain modelling, interactive map tooling, testing and refactoring discipline.
+
+### [missive](https://github.com/prodmodfour/missive)
+
+Early-stage Rust command-line tool and local control plane for A2A-native agent communication. The project explores agent messaging, task/context management, routing, collectives, local adapters, gateway behaviour, SQLite-backed state and structured CLI output.
+
+**Shows:** Rust systems development, CLI design, protocol-aware architecture, workspace organisation, typed domain modelling, local service design, testing discipline and interest in agent/tooling infrastructure.
