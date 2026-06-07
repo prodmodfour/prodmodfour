@@ -63,9 +63,9 @@ Alongside my backend/platform portfolio, I also maintain personal projects that 
 
 ### [rotom-table](https://github.com/prodmodfour/rotom-table)
 
-Long-running Nuxt 3 / TypeScript tabletop companion for Pokémon Tabletop United campaigns. It brings together an isometric map table, editable Pokémon and trainer sheets, encounter-table tooling, a searchable Pokédex, reference pages and filesystem-backed campaign data.
+Private-hostable Nuxt 3 / TypeScript tabletop companion for Pokémon Tabletop United campaigns. It brings together an isometric map table, editable Pokémon and trainer sheets, GM/player access modes, encounter tooling, a searchable Pokédex/reference library and inspectable JSON-backed campaign data for trusted-table use.
 
-**Shows:** long-term ownership, TypeScript/Nuxt application structure, complex Vue UI, local-first persistence, domain modelling, interactive map tooling, testing and refactoring discipline.
+**Shows:** long-term product ownership, TypeScript/Nuxt application structure, complex Vue UI, Three.js/isometric map tooling, filesystem-backed persistence, domain modelling for tabletop rules, private deployment workflows, testing and refactoring discipline.
 
 ### [missive](https://github.com/prodmodfour/missive)
 
